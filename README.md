@@ -6,6 +6,8 @@ Created with Landon White and Kyle McClelland
 Here is a video link with a more in depth description of the project along with examples:
 https://youtu.be/FedVwA793JI
 
+## Example
+
 ### Original Image
 ![image](https://user-images.githubusercontent.com/93265190/220809429-2fbcf46d-72cd-464c-94a9-eb06076b2460.png)
 ### Mosaic Image
